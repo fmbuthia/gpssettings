@@ -1,4 +1,4 @@
 gpssettings
 ===========
 
-plugin gpssettings cordova android
+Display the location settings page
