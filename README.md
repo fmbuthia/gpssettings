@@ -9,3 +9,8 @@ Example :
 	phonegapReady().then(function () {
 		gpsDetect.checkGPS(onSuccess, onError);
 	});
+
+
+Installing the plugin in your project:
+
+cordova plugin add com.dataforpeople.plugins.gpssettings
